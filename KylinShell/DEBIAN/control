@@ -1,0 +1,12 @@
+Package: kylinshell
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Installed-Size: 350000
+Maintainer: 2382546858<@qq.com>
+Provides: LinWinCloud
+Description: Kylin-Shell for Kylin Studio
+Pre-Depends: python3
+Hompage: https://github.com/LinWin-Cloud
+

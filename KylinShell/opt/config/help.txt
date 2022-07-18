@@ -1,0 +1,39 @@
+_  __     _ _         ____  _          _ _ 
+| |/ /   _| (_)_ __   / ___|| |__   ___| | |
+| ' / | | | | | '_ \  \___ \| '_ \ / _ \ | |
+| . \ |_| | | | | | |  ___) | | | |  __/ | |
+|_|\_\__, |_|_|_| |_| |____/|_| |_|\___|_|_|
+     |___/                  
+
+[!]Kylin Shell Help
+
+[+] cd [Path]
+    Goto the dir and you can option the dir.
+
+[+] webstart
+    You can Input the URL and KylinShell will
+    Start Your inputed Url.
+
+[+] whois
+    Find and look the information of you want
+    to know the domain.
+
+[+] get-sysinfo
+    Get your system information
+
+[+] cls
+    clear the command on the Shell
+
+[+] about
+    show the information of the KylinShell
+
+[+] get-netinfo
+    Show the Network information Of your Host
+
+[+] debbuild
+    Create a deb package develop dir and you
+    can option the deb dir and package up it.
+
+You also can run the system command on the
+KylinShell . And more information you can visit
+URL: https://github.com/LinWin-Cloud
